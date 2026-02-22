@@ -29,7 +29,7 @@ My goal is to help build AI infrastructure and products that define the next gen
 
 ## 🧪 Selected Systems
 
-### 🔹 Tube-Mate – AI Summarisation & Conversational System 
+### 🔹 Tube-Mate – AI Summarisation & Conversational System (https://www.tube-mate.com/)
 Designed an end-to-end RAG architecture for transcript-grounded summarisation and contextual follow-up questioning, focusing on reliability, contextual continuity, and structured output generation.
 
 Focus areas:

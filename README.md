@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mayowa Dada
 
-**Generative AI Engineer | AI-Driven Software Developer | Open Source Contributor**
+**AI Product Engineer | Generative AI & RAG Systems**
 
 🎯 *Building intelligent systems for business, work, learning, and life*
 
@@ -8,42 +8,41 @@
 
 ## 🧠 About Me
 
-I'm a Software Engineer focused on Generative AI and intelligent systems. My work bridges AI research and real-world application — from building Retrieval-Augmented Generation (RAG) pipelines and Knowledge Graphs to shipping full-stack LLM-powered tools for productivity and education.
+I design and build production-oriented generative AI systems using Retrieval-Augmented Generation (RAG), semantic search, and structured LLM workflows.
 
-I’m passionate about creating solutions that simplify complexity, automate insights, and improve decision-making.
+My work focuses on building AI systems that are reliable, grounded, and deployable at scale. I think deeply about context management, retrieval architecture, structured prompt design, and evaluation strategies to move beyond simple model integration toward robust AI products.
+
+I am particularly interested in the long-term design of intelligent systems - systems that augment human thinking, improve decision-making, and shape how people learn and work.
+
+My goal is to help build AI infrastructure and products that define the next generation of human-computer interaction.
 
 ---
 
 ## 🛠️ Key Areas of Focus
-- 🔍 Retrieval-Augmented Generation (RAG), Semantic Search
-- 📊 Knowledge Graphs, Embeddings, LLM Tooling (LangChain, LlamaIndex)
-- 🤖 Prompt Engineering, GPT APIs, Chat Interfaces
-- 🧰 Full-Stack Development (FastAPI, Node.js, HTML/CSS, JS)
-- 🚀 AI Productivity Tools, NLP Automation, Chrome Extensions
+-  Retrieval architecture (RAG pipelines, vector search, embeddings)
+-  Context management & chunking strategies
+-  Structured prompt design & output validation
+-  Backend AI services (Python, FastAPI, async processing)
+-  Production-oriented workflow design
 
 ---
 
-## 🧪 Projects & Highlights
+## 🧪 Selected Systems
 
-### 🔹 YouTube Video Summarizer  
-Chrome extension + Web App that extracts transcripts and generates AI-powered summaries with follow-up insights.  
-**Tech:** LangChain · Chroma · Gemini API · FastAPI · RecursiveCharacterTextSplitter
+### 🔹 Tube-Mate – AI Summarisation & Conversational System 
+Designed an end-to-end RAG architecture for transcript-grounded summarisation and contextual follow-up questioning, focusing on reliability, contextual continuity, and structured output generation.
 
-### 🔹 CV Generator  
-System that processes 500+ requests/day with over 85% user satisfaction, built for high-traffic scalability.
+Focus areas:
+-  Sliding-window chunking for long-context coherence
+-  Embedding-based retrieval using Redis
+-  Structured JSON outputs for deterministic summarisation
+-  Async backend processing for improved reliability
 
-### 🔹 Marvel AI (Reality AI Lab)  
-Developed modular GenAI features using RAG, embeddings, Redis vector DB, and knowledge graphs.
+### 🔹 Generative AI Systems – Reality AI Lab 
+Worked on customer-facing GenAI features integrating retrieval pipelines, embedding workflows, and modular LLM architecture.
 
-> See more at [github.com/Haryohmi](https://github.com/Haryohmi)
-
----
-
-## 📚 Certifications & Learning
-- Prompt Engineering for Developers – DeepLearning.AI  
-- Machine Learning Specialization – DeepLearning.AI  
-- AI & Cloud Fundamentals – IBM  
-- MSc, Management of Business Information Technology – University of Greenwich (Distinction)
+## 📚 Education
+MSc, Management of Business Information Technology – University of Greenwich (Distinction)
 
 ---
 

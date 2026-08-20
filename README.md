@@ -44,7 +44,7 @@ Also built the layered response to registration abuse: an email verification gat
 
 - **A community platform** on Next.js and Payload CMS. Chose self-hosted over a hosted CMS because a nine-role permission model, audit logging and submission-queue ownership exceeded what hosted tooling offers without enterprise pricing plus a second admin app. Fourteen collections, WCAG 2.2 AA checks running in CI.
 - **A booking and payments product** on Next.js, Supabase and Stripe. The interesting part is the availability engine: eight validity rules, all wall-clock times composed in Europe/London before overlap maths runs in UTC, and nineteen tests covering both BST and GMT. Get that wrong and bookings are an hour off for half the year.
-- **[Lahjiz Signaturez](https://lahjizsignaturez.co.uk)** — a made-to-order fashion storefront where the key decision was *not* building a cart, because the brand sells through conversation.
+- **Lahjiz Signaturez** — a made-to-order fashion storefront where the key decision was *not* building a cart, because the brand sells through conversation.
 
 ### ÒreAyò — speech recognition research
 
@@ -63,6 +63,7 @@ Early-stage research into automatic speech recognition for Nigerian languages: Y
 ## Education
 
 **MSc Management of Business Information Technology** — University of Greenwich, Distinction
+
 **BSc Psychology**
 
 ---
